@@ -59,3 +59,5 @@ Added an `autouse` fixture to reset seed data before each test so they don't sha
 - `frontend/src/styles.css` — styles for the new badge and pill variants
 
 
+## Loom 
+https://www.loom.com/share/16082a51831441ec9f8d7e4210448de5
