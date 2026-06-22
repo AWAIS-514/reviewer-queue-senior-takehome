@@ -58,6 +58,4 @@ Added an `autouse` fixture to reset seed data before each test so they don't sha
 - `frontend/src/App.vue` — contextual buttons, terminal item removal, status/risk badges
 - `frontend/src/styles.css` — styles for the new badge and pill variants
 
-## AI assistance used
 
-Used Claude Code to help implement the changes. I read the codebase and identified the bugs myself first, then used it to write the code for fixes I had already reasoned through. I reviewed each diff and ran the test suite before treating anything as done.
